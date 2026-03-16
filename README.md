@@ -33,6 +33,22 @@ Create publication-quality, multi-layer Sankey (alluvial) diagrams using only ba
 
 ---
 
+## Gallery
+
+### Global Freshwater Withdrawal & Use
+![Freshwater Sankey](sankey_water.png)
+
+### Global CO2 Emissions by Sector
+![CO2 Emissions Sankey](sankey_co2.png)
+
+### Global Burden of Disease: Risk Factors to Outcomes
+![Disease Burden Sankey](sankey_disease.png)
+
+### Global Primary Energy Flow
+![Energy Flow Sankey](sankey_energy.png)
+
+---
+
 ## Quick Start
 
 ### 1. Source the library
